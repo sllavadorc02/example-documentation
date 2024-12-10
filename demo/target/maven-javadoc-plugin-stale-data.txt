@@ -1,0 +1,51 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/alumno/.m2/repository/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar;C:/Users/alumno/.m2/repository/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'c:/Users/alumno/Desktop/EjemploMaven/demo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'c:/Users/alumno/Desktop/EjemploMaven/demo/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'demo 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'demo 1.0-SNAPSHOT API'
+com.example
+C:\Users\alumno\.m2\repository\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar = 1733852269834
+C:\Users\alumno\.m2\repository\com\google\errorprone\error_prone_annotations\2.27.0\error_prone_annotations-2.27.0.jar = 1733852270207
+c:\Users\alumno\Desktop\EjemploMaven\demo\src\main\java = 1733851775908
+c:\Users\alumno\Desktop\EjemploMaven\demo\target\reports\apidocs\allclasses-index.html = 1733852949436
+c:\Users\alumno\Desktop\EjemploMaven\demo\target\reports\apidocs\allpackages-index.html = 1733852949440
+c:\Users\alumno\Desktop\EjemploMaven\demo\target\reports\apidocs\copy.svg = 1733852949518
+c:\Users\alumno\Desktop\EjemploMaven\demo\target\reports\apidocs\element-list = 1733852949344
+c:\Users\alumno\Desktop\EjemploMaven\demo\target\reports\apidocs\help-doc.html = 1733852949486
+c:\Users\alumno\Desktop\EjemploMaven\demo\target\reports\apidocs\index-all.html = 1733852949469
+c:\Users\alumno\Desktop\EjemploMaven\demo\target\reports\apidocs\index.html = 1733852949478
+c:\Users\alumno\Desktop\EjemploMaven\demo\target\reports\apidocs\link.svg = 1733852949520
+c:\Users\alumno\Desktop\EjemploMaven\demo\target\reports\apidocs\member-search-index.js = 1733852949450
+c:\Users\alumno\Desktop\EjemploMaven\demo\target\reports\apidocs\module-search-index.js = 1733852949442
+c:\Users\alumno\Desktop\EjemploMaven\demo\target\reports\apidocs\overview-tree.html = 1733852949412
+c:\Users\alumno\Desktop\EjemploMaven\demo\target\reports\apidocs\package-search-index.js = 1733852949444
+c:\Users\alumno\Desktop\EjemploMaven\demo\target\reports\apidocs\script.js = 1733852949516
+c:\Users\alumno\Desktop\EjemploMaven\demo\target\reports\apidocs\search-page.js = 1733852949533
+c:\Users\alumno\Desktop\EjemploMaven\demo\target\reports\apidocs\search.html = 1733852949474
+c:\Users\alumno\Desktop\EjemploMaven\demo\target\reports\apidocs\search.js = 1733852949527
+c:\Users\alumno\Desktop\EjemploMaven\demo\target\reports\apidocs\stylesheet.css = 1733852949494
+c:\Users\alumno\Desktop\EjemploMaven\demo\target\reports\apidocs\tag-search-index.js = 1733852949452
+c:\Users\alumno\Desktop\EjemploMaven\demo\target\reports\apidocs\type-search-index.js = 1733852949447
